@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=FreeBlocks
+Comment=FreeBlocks port
+Exec=freeblocks.dge
+Icon=freeblocks
+Categories=games;

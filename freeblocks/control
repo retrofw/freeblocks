@@ -1,0 +1,10 @@
+Package: freeblocks
+Version: 
+Description: RetroFW port of FreeBlocks
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/freeblocks
+Depends: retrofw(>=2.0)
+Source: https://github.com/retrofw/freeblocks

@@ -1,0 +1,4 @@
+title=FreeBlocks
+description=Free Blocks port
+exec=/home/retrofw/games/freeblocks/freeblocks.elf
+clock=600
